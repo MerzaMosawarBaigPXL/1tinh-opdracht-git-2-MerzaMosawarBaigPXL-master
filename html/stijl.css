@@ -59,6 +59,8 @@ header {
     margin-right: 10%;
 }
 
+header p {display: none;}
+
 #categorie {
     background-color: #ffffff;
     color: black;
@@ -125,4 +127,12 @@ a:hover {
 @media screen and (max-width: 600px) {
     #categorie {float: none;}
     #content {max-width: 50%; height: 100%;}
+}
+
+@media screen and (max-width: 450px) {
+    .grid {width: 100%;}
+    nav li {display: block; width: 100%;}
+    header {width: auto; height: auto;}
+    header h2 {display: none;}
+    header p {display: block}
 }
