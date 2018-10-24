@@ -118,8 +118,11 @@ a:hover {
 
 @media screen and (max-width: 960px) {
     #categorie {width: 25%;}
-    #content {width: 75%}
+    #content {width: 75%;}
 
+}
 
-
+@media screen and (max-width: 600px) {
+    #categorie {float: none;}
+    #content {max-width: 50%; height: 100%;}
 }
