@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b194314d-2128-4326-9e9e-68ab32c7e4ce" name="Default Changelist" comment="">
+    <list default="true" id="b194314d-2128-4326-9e9e-68ab32c7e4ce" name="Default Changelist" comment="Merge branch 'master' of https://github.com/MerzaMosawarBaigPXL/1tinh-opdracht-git-2-MerzaMosawarBaigPXL-master&#10;&#10;# Conflicts:&#10;#&#9;html/merge.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/merge.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/merge.html" afterDir="false" />
     </list>
@@ -18,11 +18,11 @@
     <session id="-1226336631">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.9" value="7" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,15 +40,15 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="942" />
-          <entry key="html" value="19" />
-          <entry key="txt" value="244" />
+          <entry key="html" value="22" />
+          <entry key="txt" value="257" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="942" />
-          <entry key="HTML" value="19" />
-          <entry key="PLAIN_TEXT" value="244" />
+          <entry key="HTML" value="22" />
+          <entry key="PLAIN_TEXT" value="257" />
         </counts>
       </usages-collector>
     </session>
@@ -77,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/html/merge.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -103,7 +103,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -166,7 +166,9 @@
       <workItem from="1540456160549" duration="1251000" />
       <workItem from="1540459916562" duration="1411000" />
       <workItem from="1540463497947" duration="356000" />
-      <workItem from="1540554184407" duration="1563000" />
+      <workItem from="1540554184407" duration="2334000" />
+      <workItem from="1541172222712" duration="594000" />
+      <workItem from="1541174106996" duration="3013000" />
     </task>
     <task id="LOCAL-00001" summary="1ste mediaquery 960px toegevoegd">
       <created>1540386603526</created>
@@ -196,14 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1540461142814</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="merge deel 2">
+      <created>1540556671702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540556671702</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17436000" />
+    <option name="totallyTimeSpent" value="21814000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18589744" />
@@ -236,7 +245,8 @@
     <MESSAGE value="stijl.css --&gt; 2de mediaquery 600px toegevoegd&#10;+ kleine verbeteringen aan css&#10;index.html --&gt; meta viewport toegevoegd" />
     <MESSAGE value="stijl.css --&gt; 3de mediaquery 450px toegevoegd&#10;              + header p toegevoegd&#10;index.html --&gt; paragraaf (met melding) toegevoegd" />
     <MESSAGE value="stijl.css --&gt; kleine wijziging in de 3de mediaquery (450px)" />
-    <option name="LAST_COMMIT_MESSAGE" value="stijl.css --&gt; kleine wijziging in de 3de mediaquery (450px)" />
+    <MESSAGE value="merge deel 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge deel 2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/Desktop/test_bestanden/stijl.css" />
@@ -257,7 +267,7 @@
     <entry file="file://$PROJECT_DIR$/html/merge.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
